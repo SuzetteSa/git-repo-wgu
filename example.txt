@@ -3,3 +3,5 @@ This is an example
 This is a new line
 
 add another one
+
+we are creating examples of using GIT!
